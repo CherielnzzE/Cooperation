@@ -10,7 +10,7 @@ void bar() {
 }
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << "Hello, friend!" << endl;
     foo();  // 呼叫 foo
     bar();  //呼叫 bar
     return 0;
